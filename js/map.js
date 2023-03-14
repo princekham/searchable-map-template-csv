@@ -10,10 +10,10 @@ $(function() {
   SearchableMapLib.initialize({
     filePath: 'data/chicago-flu-shot-locations-2019.csv',
     fileType: 'csv',
-    recordName: 'flu shot location',
-    recordNamePlural: 'flu shot locations',
+    recordName: 'Restaurant in Taunggyi',
+    recordNamePlural: 'Restaurants in Taunggyi',
     map_centroid: [20.791231, 97.040322],
-    defaultZoom:  18,
+    defaultZoom:  16,
     defaultRadius: 1610,
     debug: false,
   });
