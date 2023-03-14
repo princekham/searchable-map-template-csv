@@ -13,7 +13,7 @@ $(function() {
     recordName: 'flu shot location',
     recordNamePlural: 'flu shot locations',
     map_centroid: [20.791231, 97.040322],
-    defaultZoom:  11,
+    defaultZoom:  18,
     defaultRadius: 1610,
     debug: false,
   });
