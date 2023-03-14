@@ -10,10 +10,10 @@ $(function() {
   SearchableMapLib.initialize({
     filePath: 'data/chicago-flu-shot-locations-2019.csv',
     fileType: 'csv',
-    recordName: 'Restaurant in Taunggyi',
-    recordNamePlural: 'Restaurants in Taunggyi',
+    recordName: 'Teashop in Taunggyi',
+    recordNamePlural: 'Teashops in Taunggyi',
     map_centroid: [20.791231, 97.040322],
-    defaultZoom:  16,
+    defaultZoom:  15,
     defaultRadius: 1610,
     debug: false,
   });
