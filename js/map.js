@@ -13,7 +13,7 @@ $(function() {
     recordName: 'Teashop in Taunggyi',
     recordNamePlural: 'Teashops in Taunggyi',
     map_centroid: [20.791231, 97.040322],
-    defaultZoom:  15,
+    defaultZoom:  13,
     defaultRadius: 1610,
     debug: false,
   });
